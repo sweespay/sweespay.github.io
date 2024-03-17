@@ -18,8 +18,8 @@ ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
 email="non"
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="001"
+name ="001"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
@@ -45,8 +45,8 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="BTC"
-name ="THIS IS KING"
+code ="0oo"
+name ="0oo"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
@@ -58,8 +58,8 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
-name ="MAKER KAY"
+code ="1"
+name ="1"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
@@ -71,8 +71,8 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="CHATGPT"
-name="ChatGPT"
+code="13"
+name="13"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -81,7 +81,7 @@ image="https://sweespay.github.io/img/chat.png"
 status="live"
 
 [[CURRENCIES]]
-code ="USD"
+code ="USDx"
 name ="UNITED STET BOND"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
@@ -94,8 +94,8 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="GOLD"
-name="Gold Bond"
+code="143"
+name="143"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -106,7 +106,7 @@ status="live"
 
 
 [[CURRENCIES]]
-code="RCEO"
+code="1Vote"
 name="Received of customers"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
@@ -117,8 +117,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="BOSS"
-name="BOSS"
+code="365"
+name="365"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -128,8 +128,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="BOND"
-name="BOND"
+code="5G"
+name="5G"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -139,8 +139,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="T"
-name="T"
+code="5oo"
+name="5oo"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -151,8 +151,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="1oo"
-name="100"
+code="69"
+name="69"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -162,8 +162,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="Q"
-name="Question"
+code="7"
+name="7"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -174,8 +174,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="Yes"
-name="Yes"
+code="786"
+name="786"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -184,8 +184,8 @@ image="https://sweespay.github.io/img/YES.png"
 status="live"
 
 [[CURRENCIES]]
-code ="USBS"
-name ="UNIT OF USDT"
+code ="87"
+name ="87"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
@@ -200,8 +200,8 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code="SNP500"
-name="S&P"
+code="92"
+name="92"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -211,8 +211,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="DW"
-name="📛"
+code="990"
+name="990"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -223,8 +223,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="DEX"
-name="DX"
+code="9KK"
+name="9KK"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -235,8 +235,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="POK"
-name="Pakistani Bond"
+code="AI"
+name="Pakistani AI"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -246,7 +246,7 @@ status="live"
 
 
 [[CURRENCIES]]
-code="MBA"
+code="AKDB"
 name="MASTAR"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
@@ -258,8 +258,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="GDDSX"
-name="GDDSX"
+code="AKG"
+name="AKG"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -269,8 +269,8 @@ status="live"
 
 
 [[CURRENCIES]]
-code="Wallet"
-name="wallet for pay"
+code="AQ"
+name="AQ wallet"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
@@ -281,13 +281,13 @@ status="live"
 
 
 [[CURRENCIES]]
-code ="1BOSS"
-name ="1BOSS"
+code ="BKG"
+name ="BKG"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/crown.png"
+image="https://sweespay.github.io/img/1.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -295,13 +295,13 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="SGB"
-name ="SWEES GOLD BOND"
+code ="DC"
+name ="DC BOND"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/SGB.png"
+image="https://sweespay.github.io/img/2.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
