@@ -369,91 +369,91 @@ status="live"
 
 
 [[CURRENCIES]]
-code="RCEO"
-name="Received of customers"
+code="FGYJB"
+name="FGYJB"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="Received of customers"
-image="https://sweespay.github.io/img/RECO.png"
+image="https://sweespay.github.io/img/7.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="BOSS"
-name="BOSS"
+code="GBP"
+name="GBP"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="BOSS"
-image="https://sweespay.github.io/img/BOSS.png"
+image="https://sweespay.github.io/img/8.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="BOND"
-name="BOND"
+code="GDEF"
+name="GDEF"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="BOND"
-image="https://sweespay.github.io/img/BOND.png"
+image="https://sweespay.github.io/img/9.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="T"
-name="T"
+code="GIF"
+name="GIF"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="T"
-image="https://sweespay.github.io/img/T.png"
+image="https://sweespay.github.io/img/10.png"
 status="live"
 
 
 
 [[CURRENCIES]]
-code="1oo"
-name="100"
+code="GOPU"
+name="GOPU"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="1oo"
-image="https://sweespay.github.io/img/100.png"
+image="https://sweespay.github.io/img/11.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="Q"
-name="Question"
+code="HDH9"
+name="HDH9"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="Q"
-image="https://sweespay.github.io/img/Q.png"
+image="https://sweespay.github.io/img/12.png"
 status="live"
 
 
 
 [[CURRENCIES]]
-code="Yes"
-name="Yes"
+code="HSJDH"
+name="HSJDH"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="Yes"
-image="https://sweespay.github.io/img/YES.png"
+image="https://sweespay.github.io/img/13.png"
 status="live"
 
 [[CURRENCIES]]
-code ="USBS"
-name ="UNIT OF USDT"
+code ="ID"
+name ="ID"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/USD.png"
+image="https://sweespay.github.io/img/14.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -463,80 +463,80 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code="SNP500"
-name="S&P"
+code="IUYT"
+name="IUYT"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="SNP500"
-image="https://sweespay.github.io/img/SNP.png"
+image="https://sweespay.github.io/img/15.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="DW"
-name="📛"
+code="Jally"
+name="Jally"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="DW"
-image="https://sweespay.github.io/img/DW.png"
+image="https://sweespay.github.io/img/16.png"
 status="live"
 
 
 
 [[CURRENCIES]]
-code="DEX"
-name="DX"
+code="JDHRKEV648J"
+name="JDHRKEV648J"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="dex"
-image="https://sweespay.github.io/img/DEX.png"
+image="https://sweespay.github.io/img/17.png"
 status="live"
 
 
 
 [[CURRENCIES]]
-code="POK"
-name="Pakistani Bond"
+code="JFTHHHI"
+name="JFTHHHI"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="POK"
-image="https://sweespay.github.io/img/POK.png"
+image="https://sweespay.github.io/img/18.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="MBA"
-name="MASTAR"
+code="JSBS"
+name="JSBS"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="MASTAR"
-image="https://sweespay.github.io/img/MBA.png"
+image="https://sweespay.github.io/img/19.png"
 status="live"
 
 
 
 [[CURRENCIES]]
-code="GDDSX"
-name="GDDSX"
+code="KSHDKN"
+name="KSHDKN"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="ALL"
-image="https://sweespay.github.io/img/STAR.png"
+image="https://sweespay.github.io/img/20.png"
 status="live"
 
 
 [[CURRENCIES]]
-code="Wallet"
-name="wallet for pay"
+code="LOPK"
+name="LOPK"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="wallet"
-image="https://sweespay.github.io/img/wallet.png"
+image="https://sweespay.github.io/img/21.png"
 status="live"
