@@ -295,8 +295,8 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="DC"
-name ="DC BOND"
+code ="CD"
+name ="CD BOND"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
@@ -308,62 +308,62 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="BTC"
-name ="THIS IS KING"
+code ="CHF"
+name ="CHF"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/BTC.png"
+image="https://sweespay.github.io/img/3.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
-name ="MAKER KAY"
+code ="DOLPHIN"
+name ="DOLPHIN"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/Kay.png"
+image="https://sweespay.github.io/img/3.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="CHATGPT"
-name="ChatGPT"
+code="Dualaa"
+name="Dualaa"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="ChatGPT"
-image="https://sweespay.github.io/img/chat.png"
+image="https://sweespay.github.io/img/4.png"
 status="live"
 
 [[CURRENCIES]]
-code ="USD"
-name ="UNITED STET BOND"
+code ="ERRES"
+name ="ERRES"
 issuer = "GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of ."
-image="https://sweespay.github.io/img/USD.png"
+image="https://sweespay.github.io/img/5.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code="GOLD"
-name="Gold Bond"
+code="ETH"
+name="ETH"
 issuer="GBZA237FPCEA62NEIKTZ2IXVJ4W2KPULPW4YCLZGWTQVFHTTW5YYKJVV"
 is_asset_anchored=false
 anchor_asset_type="other"
 anchor_asset="GolD"
-image="https://sweespay.github.io/img/SGB.png"
+image="https://sweespay.github.io/img/6.png"
 status="live"
 
 
